@@ -38,5 +38,7 @@ export default class main extends engine {
         var operate: any = {};
         operate.params = theme;
         engine.scene.replaceScene(`${theme}/loading/loading`, operate);
+
+        // 111111111111111111111111
     }
 }
